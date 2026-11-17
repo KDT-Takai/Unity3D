@@ -1,19 +1,20 @@
 # Unity
-UnityPrj/[Ll]ibrary/
-UnityPrj/[Tt]emp/
-UnityPrj/[Oo]bj/
-UnityPrj/[Bb]uild/
-UnityPrj/[Bb]uilds/
-UnityPrj/[Ll]ogs/
-UnityPrj/[Uu]ser[Ss]ettings/
-UnityPrj/[Mm]emoryCaptures/
-UnityPrj/[Rr]ecordings/
-UnityPrj/.unity/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.unity/
 
 # IDE
 .vs/
 .vscode/
 .idea/
+.vsconfig
 *.csproj
 *.sln
 *.suo
