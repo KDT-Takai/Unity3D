@@ -1,0 +1,39 @@
+# Unity
+UnityPrj/[Ll]ibrary/
+UnityPrj/[Tt]emp/
+UnityPrj/[Oo]bj/
+UnityPrj/[Bb]uild/
+UnityPrj/[Bb]uilds/
+UnityPrj/[Ll]ogs/
+UnityPrj/[Uu]ser[Ss]ettings/
+UnityPrj/[Mm]emoryCaptures/
+UnityPrj/[Rr]ecordings/
+UnityPrj/.unity/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# OS
+.DS_Store
+Thumbs.db
